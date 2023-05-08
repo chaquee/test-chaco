@@ -4,7 +4,7 @@ import "h8k-components";
 import info from "./info.json";
 import { Pagination } from "./components";
 
-const title = "React Pagination";
+const title = "Chaco Pagination";
 
 const App = () => {
   const [data] = useState([...info]);
